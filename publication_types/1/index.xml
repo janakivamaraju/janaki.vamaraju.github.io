@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Home Page</title>
+    <link>https://janakivamaraju.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Janaki Vamaraju</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://janakivamaraju.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mean field Boltzmann machines for high resolution Kirchhoff migration</title>
+      <link>https://janakivamaraju.github.io/publication/clothing-search/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of continuous, discontinuous, and enriched Galerkin finite-element methods for elastic wave-propagation simulation </title>
+      <link>https://janakivamaraju.github.io/publication/eg-conf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/publication/eg-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid-Galerkin finite-element method for seismic wave propagation in fractured media </title>
+      <link>https://janakivamaraju.github.io/publication/hybrid-conf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/publication/hybrid-conf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

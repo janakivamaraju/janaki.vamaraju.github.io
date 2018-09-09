@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Home Page</title>
+    <link>https://janakivamaraju.github.io/home/</link>
+    <description>Recent content in Homes on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Janaki Vamaraju</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://janakivamaraju.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://janakivamaraju.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/home/about/</guid>
+      <description>I am a Ph.D candidate at the Jackson School of Geosciences, UT Austin. I am advised by Dr. Mrinal Sen. I am also affiliated with the University of Texas Institute for Geophysics. I enjoy developing accurate and efficient solutions to real world problems using mathematical physics. Currently, my research involves solving forward and inverse problems in exploration geophysics. I have had the good fortune of working with wonderful researchers.
+Here is my CV</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://janakivamaraju.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://janakivamaraju.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Links</title>
+      <link>https://janakivamaraju.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://janakivamaraju.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://janakivamaraju.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
